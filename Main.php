@@ -2,11 +2,11 @@
 
 	/* 
 	Plugin Name: Fresh Text
-	Plugin URI: http://goodies.freshout.us/
+	Plugin URI: http://freshoutcreative.com/goodies
 	Description: Replace text with images of the words. Usage: &lt;span class="freshout" title="SIZE,FONT,COLOR"&gt;Text to replace.&lt;/span&gt;, ie, &lt;span class="freshout" title="14,masexy,FF77EE"&gt;Sexy text.&lt;/span&gt;
 	Version: .1
 	Author: Freshout
-	Author URI: http://freshout.us/
+	Author URI: http://freshoutcreative.com
 	
 	Original text replacement code by Stewart Rosenberger
 	http://www.stewartspeak.com/headings/    
