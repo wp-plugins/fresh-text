@@ -1,9 +1,9 @@
 === Plugin Name ===
 Contributors: freshout
-Donate link:
+Donate link: http://freshoutcreative.com
 Tags: posts, pages
 Requires at least: 2.0.2
-Tested up to: 2.1
+Tested up to: 2.3
 Stable tag: .1
 
 Add classes to your html tags and the innerHTML is then automatically parsed into images
@@ -15,15 +15,16 @@ After installing, tags with class 'freshout' will have the words changed into
 .png files displaying the same word in a specified font and size.  The title
 attribute is hijacked for parameters. 
 
-<span class="freshout" title="SIZE,FONT,COLOR">
+&lt;span class="freshout" title="SIZE,FONT,COLOR"&gt;
 	This text becomes images.
-</span>
+&lt;/span&gt;
 
 For example:
 
-<span class="freshout" title="14,masexy,FF77EE">
+&lt;span class="freshout" title="14,masexy,FF77EE"&gt;
 	This is sexy text.
-</span>
+&lt;/span&gt;
+
 
 == Installation ==
 
