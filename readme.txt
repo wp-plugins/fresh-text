@@ -29,7 +29,6 @@ For example:
 == Installation ==
 
 1. Upload fresh_text folder to the `/wp-content/plugins/` directory
-1. Edit replacement.js to use your path to wordpress (line 10)
 1. Activate the plugin through the 'Plugins' menu in WordPress
 
 
